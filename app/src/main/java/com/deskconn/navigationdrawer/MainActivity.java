@@ -1,4 +1,4 @@
-package com.example.navigationdrawer;
+package com.deskconn.navigationdrawer;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.view.GravityCompat;
